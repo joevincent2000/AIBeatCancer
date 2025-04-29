@@ -29,7 +29,7 @@ AI Cancer Care provides an easy and efficient way to craft personalized cancer c
 1. **Clone the Repository**
 
    ```bash
-   
+   git clone https://github.com/joevincent2000/AIBeatCancer.git   
    cd beat-cancer
    ```
 
